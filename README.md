@@ -1,7 +1,7 @@
 
 # Welcome to Note-RunnerRunner📑
 ## Description  
-    Application where you can organize thoughts and keep track of tasks you need to complete
+Application where you can organize thoughts and keep track of tasks you need to complete
 
 ## Content ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) 
 - [Installation](#Installation)
