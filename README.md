@@ -9,6 +9,7 @@ This application is a note-taking tool that allows users to create, save, and ma
 - [Installation](#Installation)
 - [Usage](#Usage)
 - [Link](#Link)
+- [Demo](#Demo)
 - [Installation](#Installation)
 - [License](#License)
 - [Contributing](#Contributing)
