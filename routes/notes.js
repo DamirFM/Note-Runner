@@ -44,6 +44,7 @@ const {
       });
   });
 
+  
   // POST Route for a new note
   notes.post('/', (req, res) => {
     console.log(req.body);
