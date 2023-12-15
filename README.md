@@ -1,11 +1,14 @@
 
 # Welcome to Note-RunnerRunner📑
+
 ## Description  
-Application where you can organize thoughts and keep track of tasks you need to complete
+
+This application is a note-taking tool that allows users to create, save, and manage notes through a user-friendly interface.
 
 ## Content ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) 
 - [Installation](#Installation)
 - [Usage](#Usage)
+- [Link](#Link)
 - [Installation](#Installation)
 - [License](#License)
 - [Contributing](#Contributing)
@@ -13,14 +16,31 @@ Application where you can organize thoughts and keep track of tasks you need to 
 - [Questions](#Questions)
 
 ## Installation
-    
+
+Users are presented with a landing page featuring a link to access the notes page.
+
 ## Usage
+
+Entering a new note title and its text triggers the appearance.
+- To save the entered note.
+- To clear the note entry fields.
+
+## Link of deployed application
+
+https://shielded-tundra-31652-cdf255acc529.herokuapp.com
+
+## Demo
+
+![Demo](./public/assets/11-express-homework-demo.gif)
     
 ## License   
 This application is covered under MIT License
 (https://opensource.org/licenses/MIT)
+
 ## Contributing
+
 Feel free to contribute to this project. Fork it and create a pull request to propose changes.
+
 ## Tests
     
 ## Questions
