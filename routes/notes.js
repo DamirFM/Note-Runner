@@ -55,7 +55,7 @@ const {
       const newTip = {
         title,
         text,
-        node_id: uuidv4(),
+        id: uuidv4(),
       };
   
       readAndAppend(newTip, './db/db.json');
